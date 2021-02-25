@@ -1,4 +1,4 @@
-# Bash_alias
+# Bash_alias (created by me ac1d) - For Bash not zsh!
 
 ## Bash alians's for an easy life!
 
