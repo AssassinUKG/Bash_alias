@@ -19,7 +19,7 @@ done
 
 ```
 
-Add this to your .bashrc, then source it after 
+Add this to your .bashrc or .bash_profile, then source it after 
 ```
 source ~/.bashrc
 ```
